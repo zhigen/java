@@ -11,5 +11,7 @@
 
     <artifactId>jdk8</artifactId>
 
+    <dependencies>
 
+    </dependencies>
 </project>

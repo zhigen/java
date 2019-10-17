@@ -11,5 +11,7 @@
 
     <artifactId>jdk11</artifactId>
 
-
+    <dependencies>
+        
+    </dependencies>
 </project>
