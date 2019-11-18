@@ -2,8 +2,6 @@ package com.zglu.java.base.lang;
 
 import lombok.extern.log4j.Log4j2;
 
-import java.util.HashMap;
-
 /**
  * 测试整数相关
  *
