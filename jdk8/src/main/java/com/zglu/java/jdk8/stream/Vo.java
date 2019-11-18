@@ -5,6 +5,9 @@ import lombok.Data;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author zglu
+ */
 @Data
 public class Vo {
     private int id;
