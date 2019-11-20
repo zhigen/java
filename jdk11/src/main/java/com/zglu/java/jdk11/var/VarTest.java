@@ -10,7 +10,7 @@ import lombok.extern.java.Log;
 @Log
 public class VarTest {
     public static void main(String[] args) {
-        var a = 1;
-        log.info(a + "");
+        var s = "var";
+        log.info(s);
     }
 }
