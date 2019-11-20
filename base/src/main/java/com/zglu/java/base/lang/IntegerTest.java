@@ -77,18 +77,18 @@ public class IntegerTest {
         int a = 0b10101010;
         int b = 0b01010101;
         //&按位与
-        log.info(Integer.toBinaryString(a&b));
+        log.info(Integer.toBinaryString(a & b));
         //|按位或
-        log.info(Integer.toBinaryString(a|b));
+        log.info(Integer.toBinaryString(a | b));
         //^按位异或
-        log.info(Integer.toBinaryString(a^b));
+        log.info(Integer.toBinaryString(a ^ b));
         //~取反
         log.info(Integer.toBinaryString(~a));
         //<<左移
-        log.info(Integer.toBinaryString(a<<1));
+        log.info(Integer.toBinaryString(a << 1));
         //>>右移
-        log.info(Integer.toBinaryString(a>>1));
+        log.info(Integer.toBinaryString(a >> 1));
         //>>>无符号右移
-        log.info(Integer.toBinaryString(a>>>1));
+        log.info(Integer.toBinaryString(a >>> 1));
     }
 }
