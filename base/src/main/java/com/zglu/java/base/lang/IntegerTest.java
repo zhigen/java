@@ -22,7 +22,7 @@ public class IntegerTest {
      */
     private static void init() {
         log.info("使用不同进制的“{}”为整数属性赋值", 1000);
-        Integer i = 0b1000;
+        int i = 0b1000;
         log.info("2进制{}", i);
         // i = 01000; // 不推荐使用
         i = Integer.valueOf("1000", 8);
