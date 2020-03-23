@@ -8,6 +8,7 @@
     <artifactId>java</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <modules>
         <module>jdk11</module>
         <module>jdk8</module>
